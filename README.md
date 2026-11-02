@@ -52,10 +52,14 @@ O projeto utiliza `CREATE DATABASE`, `CREATE TABLE`, chaves primárias e estrang
 
 ## Demonstração
 
-Adicione nesta seção capturas de tela do MySQL Workbench mostrando:
-- As cinco tabelas criadas.
-- Os registros inseridos.
-- Algumas consultas executadas e seus resultados.
+### Estrutura do banco
+![Estrutura](Captura%20de%20tela%202026-11-02%20102115.png)
+
+### Dados cadastrados
+![Registros](Captura%20de%20tela%202026-11-02%20102149.png)
+
+### Consultas SQL
+![Consultas](Captura%20de%20tela%202026-11-02%20102437.png)
 
 ## Objetivo acadêmico
 
