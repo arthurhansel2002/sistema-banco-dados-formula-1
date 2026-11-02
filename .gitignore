@@ -1,0 +1,12 @@
+# MySQL local files and backups
+*.sql.bak
+*.dump
+*.log
+
+# Operating system
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/

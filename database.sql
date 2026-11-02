@@ -1,0 +1,2 @@
+CREATE DATABASE IF NOT EXISTS db_Formula1;
+USE db_Formula1;
